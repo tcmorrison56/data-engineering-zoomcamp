@@ -37,6 +37,7 @@ requires-dist = [
     { name = "tqdm", specifier = ">=4.67.1" },
 ]
 
+
 [package.metadata.requires-dev]
 dev = [
     { name = "jupyter", specifier = ">=1.1.1" },
